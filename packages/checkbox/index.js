@@ -1,4 +1,4 @@
-import ElCheckbox from './src/checkbox';
+import ElCheckbox from './src/checkbox.js';
 
 /* istanbul ignore next */
 ElCheckbox.install = function(Vue) {

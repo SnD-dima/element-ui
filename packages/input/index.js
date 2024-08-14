@@ -1,4 +1,4 @@
-import ElInput from './src/input';
+import ElInput from './src/input.js';
 
 /* istanbul ignore next */
 ElInput.install = function(Vue) {
